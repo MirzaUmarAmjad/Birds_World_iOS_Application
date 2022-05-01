@@ -1,0 +1,115 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireImage (3.4.1):
+    - Alamofire (~> 4.7)
+  - BSImagePicker (3.1.2)
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - ImageSlideshow (1.8.3):
+    - ImageSlideshow/Core (= 1.8.3)
+  - ImageSlideshow/Alamofire (1.8.3):
+    - AlamofireImage (~> 3.0)
+    - ImageSlideshow/Core
+  - ImageSlideshow/Core (1.8.3)
+  - iOSDropDown (0.3.4)
+  - JGProgressHUD (2.1)
+  - MaterialComponents/ActionSheet (107.3.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/BottomSheet
+    - MaterialComponents/Elevation
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Math
+    - MaterialComponents/Ripple
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/Typography
+  - MaterialComponents/AnimationTiming (107.3.0)
+  - MaterialComponents/Availability (107.3.0)
+  - MaterialComponents/BottomSheet (107.3.0):
+    - MaterialComponents/Elevation
+    - MaterialComponents/private/KeyboardWatcher
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/ShapeLibrary
+    - MaterialComponents/Shapes
+  - MaterialComponents/Elevation (107.3.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/Ink (107.3.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/private/Application (107.3.0)
+  - MaterialComponents/private/Color (107.3.0):
+    - MaterialComponents/Availability
+  - MaterialComponents/private/KeyboardWatcher (107.3.0):
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Math (107.3.0)
+  - MaterialComponents/Ripple (107.3.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/ShadowElevations (107.3.0)
+  - MaterialComponents/ShadowLayer (107.3.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/ShapeLibrary (107.3.0):
+    - MaterialComponents/private/Math
+    - MaterialComponents/Shapes
+  - MaterialComponents/Shapes (107.3.0):
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/Typography (107.3.0):
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/Math
+  - SDWebImage (5.7.2):
+    - SDWebImage/Core (= 5.7.2)
+  - SDWebImage/Core (5.7.2)
+  - SwiftyJSON (4.2.0)
+  - TextFieldEffects (1.6.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.3)
+  - BSImagePicker (~> 3.1)
+  - Charts
+  - ImageSlideshow (~> 1.8.3)
+  - ImageSlideshow/Alamofire
+  - iOSDropDown
+  - JGProgressHUD
+  - MaterialComponents/ActionSheet
+  - SDWebImage (~> 5.0)
+  - SwiftyJSON (~> 4.2.0)
+  - TextFieldEffects
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - BSImagePicker
+    - Charts
+    - ImageSlideshow
+    - iOSDropDown
+    - JGProgressHUD
+    - MaterialComponents
+    - SDWebImage
+    - SwiftyJSON
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireImage: 78d67ccbb763d87ba44b21583d2153500a195630
+  BSImagePicker: d988bb7d7e012592a20131687ac446036680f4b4
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  ImageSlideshow: 4694d7d699a1549582e7cc631fb392d8f91630f3
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  MaterialComponents: 74efa6d0c39d54850404c94352c163c6acd6cd39
+  SDWebImage: d9ea4959d99c52276dfada481987018fcaea3d58
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+
+PODFILE CHECKSUM: 37e157af280eb4897bf38b671698712cfcee0e8a
+
+COCOAPODS: 1.9.1
